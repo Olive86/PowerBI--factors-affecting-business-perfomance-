@@ -9,7 +9,7 @@
 
 Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
-# 📊 Project Title: [Your Project Name]  
+# 📊 Project Title: Analyis superstore business perfomance and expansion strategy using PowerBi 
 Author: Olive Dang (Thi Hai Dang) 
 Date: 20/07/2025  
 Tools Used: Power BI
