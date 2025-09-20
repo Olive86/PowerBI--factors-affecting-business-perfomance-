@@ -93,23 +93,9 @@ Table 1: Order Table  (Fact Table)
 <img width="612" height="494" alt="image" src="https://github.com/user-attachments/assets/3106eba9-ee8d-484b-a811-5c3d7f5bed71" />
 
 
-👉🏻 Insert a screenshot of table schema. if table is too long, only show a snapshot of it. Recommend to put it in a toggle format
+Table 2: Sale Agent Table (Dimension)  
 
- _Example:_
-
-| Column Name | Data Type | Description |  
-|-------------|----------|-------------|  
-| Product_ID  | INT      | Unique identifier for each product |  
-| Name        | TEXT     | Product name |  
-| Category    | TEXT     | Product category |  
-| Price       | FLOAT    | Price per unit |  
-
-
-
-Table 2: Sales Transactions  
-
-👉🏻 Insert a screenshot of table schema. if table is too long, only show a snapshot of it. Recommend to put it in a toggle format
-
+<img width="631" height="94" alt="image" src="https://github.com/user-attachments/assets/bf188e0d-f063-4816-81c9-aa2930461e02" />
 
  _Example:_
 
@@ -120,8 +106,9 @@ Table 2: Sales Transactions
 | Quantity       | INT      | Number of items sold |  
 | Sale_Date      | DATE     | Date of transaction |  
 
+Table 3: Return Table 
+<img width="679" height="103" alt="image" src="https://github.com/user-attachments/assets/50176f81-9fb1-4ac8-99f6-eac32e0da358" />
 
-📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle
 
 #### 3️⃣ Data Relationships:  
 Describe the connections between tables—e.g., one-to-many, many-to-many.  
