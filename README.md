@@ -162,7 +162,7 @@ Explain the step-by-step approach taken to solve the problem.
 ### 🔍 Dashboard Preview  
 
 #### 1️⃣ Dashboard 1 Preview  
-👉🏻 Insert Power BI dashboard screenshots here  
+
 <img width="1385" height="773" alt="image" src="https://github.com/user-attachments/assets/e2c11f6c-c5ac-4929-a97a-0044badc4c5b" />
 
 📌 Analysis 1:  
@@ -170,7 +170,7 @@ Explain the step-by-step approach taken to solve the problem.
 - Recommendation: _Suggest actions based on insights._  
 
 #### 2️⃣ Dashboard 2 Preview  
-👉🏻 Insert Power BI dashboard screenshots here
+
 <img width="1357" height="771" alt="image" src="https://github.com/user-attachments/assets/1b0434d3-f8cb-47bd-af1f-763227d453d3" />
 
 📌 Analysis 2:   
@@ -178,12 +178,21 @@ Explain the step-by-step approach taken to solve the problem.
 - Recommendation: _Suggest actions based on insights._  
 
 #### 3️⃣ Dashboard 3 Preview  
-👉🏻 Insert Power BI dashboard screenshots here  
+ 
 <img width="1361" height="772" alt="image" src="https://github.com/user-attachments/assets/bec77c7a-d9e8-4671-ba18-a71c54b8f670" />
 
 📌 Analysis 3:  
 
 <img width="1368" height="773" alt="image" src="https://github.com/user-attachments/assets/6ea92778-e524-49e6-a735-d02ba96b3017" />
+
+- Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
+- Recommendation: _Suggest actions based on insights._  
+
+#### 3️⃣ Dashboard 4 Preview  
+ 
+<img width="1368" height="773" alt="image" src="https://github.com/user-attachments/assets/6ea92778-e524-49e6-a735-d02ba96b3017" />
+
+📌 Analysis 3:  
 
 - Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
 - Recommendation: _Suggest actions based on insights._  
