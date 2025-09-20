@@ -3,7 +3,7 @@
 # SUPERSTORE BUSINESS PERFORMANCE & EXAPANSON STRATEGY- POWERBI 
 
 ---
-![SUPERSTORE BUSINESS](https://github.com/user-attachments/assets/a599ae46-3c88-43cb-a08c-8bb4d4e9fb3d)
+![SUPERSTORE BUSINESS](https://github.com/user-attachments/assets/c5c59e0c-d307-459c-b048-6a3372d1df6e)
 
 
 
