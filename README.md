@@ -88,7 +88,10 @@ Mention how many tables are in the dataset.
 
 #### 2️⃣ Table Schema & Data Snapshot  
 
-Table 1: Products Table  
+Table 1: Order Table  (Fact Table)
+
+<img width="612" height="494" alt="image" src="https://github.com/user-attachments/assets/3106eba9-ee8d-484b-a811-5c3d7f5bed71" />
+
 
 👉🏻 Insert a screenshot of table schema. if table is too long, only show a snapshot of it. Recommend to put it in a toggle format
 
