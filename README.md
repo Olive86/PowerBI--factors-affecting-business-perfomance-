@@ -107,13 +107,15 @@ Table 2: Sale Agent Table (Dimension)
 | Sale_Date      | DATE     | Date of transaction |  
 
 Table 3: Return Table 
+
 <img width="679" height="103" alt="image" src="https://github.com/user-attachments/assets/50176f81-9fb1-4ac8-99f6-eac32e0da358" />
 
 
 #### 3️⃣ Data Relationships:  
 Describe the connections between tables—e.g., one-to-many, many-to-many.  
 
-👉🏻 Include a screenshot of Data Modeling to visualize relationships.  
+<img width="1141" height="836" alt="image" src="https://github.com/user-attachments/assets/bfa2c6c4-19e1-4508-aa1f-af75d87194ee" />
+
 
 ---
 
