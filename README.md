@@ -1,18 +1,18 @@
 
-[README.md](https://github.com/user-attachments/files/22439534/README.md)
-# UNIGAP - PORTFOLIO BUILDING MODULE -  PBI TEMPLATE
 
-🔥Use this template as an outline for your Github projects. Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
+# SUPERSTORE BUSINESS PERFORMANCE & EXAPANSON STRATEGY- POWERBI 
 
 ---
-![E-commerce Website_Analysis](https://github.com/Dorothy-Ho-Vy/Sample-Readme-template/blob/0e47d32968459ec80d7d2666fbf5044ac56894e6/1.png)
+![SUPERSTORE BUSINESS](https://github.com/user-attachments/assets/a599ae46-3c88-43cb-a08c-8bb4d4e9fb3d)
+
+
 
 Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
 # 📊 Project Title: [Your Project Name]  
-Author: [Your Name]  
-Date: YYYY-MM-DD  
-Tools Used: SQL/ Power BI/ Python  
+Author: Olive Dang (Thi Hai Dang) 
+Date: 20/07/2025  
+Tools Used: Power BI
 
 ---
 
