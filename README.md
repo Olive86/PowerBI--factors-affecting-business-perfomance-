@@ -37,18 +37,26 @@ Define key questions:
 How is the business performing overall (Revenue, Profit, Quantity, Profit Margin)?
 
 
+
 Which markets, regions and agents are driving or limiting growth?
+
 
 
 Which products and categories contribute most to sales and profitability?
 
+
  _Example:_
 
  This project analyzes sales trends and inventory control using SQL and Power BI. The objective is
+ 
 ✔️ Identify high-demand products and sales trends.  
+
 ✔️ Monitoring agent performance and customer contribution.
+
 ✔️ Highlight risks such as high return rates or over-reliance on a small number of agents or products.
+
 ✔️ Ultimately, guide strategic decisions on market expansion, resource allocation and product portfolio optimisation.
+
 
 
 
