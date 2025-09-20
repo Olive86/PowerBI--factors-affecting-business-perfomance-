@@ -9,7 +9,7 @@
 
 Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
-# 📊 Project Title: Analyis superstore business perfomance and expansion strategy using PowerBi 
+# 📊 Project Title: Analyis superstore business perfomance and expansion strategy using PowerBI 
 Author: Olive Dang (Thi Hai Dang) 
 Date: 20/07/2025  
 Tools Used: Power BI
@@ -27,18 +27,30 @@ Tools Used: Power BI
 
 ## 📌 Background & Overview  
 
-### Objective:
+### Objective: Analyse the overall business performance of the Superstore dataset to provide actionable insights for managers and decision-makers
+
 ### 📖 What is this project about? 
  
-- Provide a brief introduction to the project. Define the problem statement/ business question that this project will show and why it is important.
-- Write in bullet point format
+
+Define key questions:
+
+How is the business performing overall (Revenue, Profit, Quantity, Profit Margin)?
+
+
+Which markets, regions and agents are driving or limiting growth?
+
+
+Which products and categories contribute most to sales and profitability?
 
  _Example:_
 
  This project analyzes sales trends and inventory control using SQL and Power BI. The objective is
 ✔️ Identify high-demand products and sales trends.  
-✔️ Optimize inventory levels to prevent overstocking or stockouts.  
-✔️ Provide actionable insights through Power BI dashboards.  
+✔️ Monitoring agent performance and customer contribution.
+✔️ Highlight risks such as high return rates or over-reliance on a small number of agents or products.
+✔️ Ultimately, guide strategic decisions on market expansion, resource allocation and product portfolio optimisation.
+
+
 
 ### 👤 Who is this project for?  
 
@@ -47,10 +59,12 @@ Mention who might benefit from this project
  _Example:_
 
 ✔️ Data analysts & business analysts  
-✔️ Supply chain managers & inventory controllers  
-✔️ Decision-makers & stakeholders  
+✔️ Senior Managers and Executives
+✔️ Sales Managers
+✔️Finance and Operations Teams
+✔️Stakeholders and Investors
 
----
+
 
 ## 📂 Dataset Description & Data Structure  
 
